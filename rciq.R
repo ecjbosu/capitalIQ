@@ -1,3 +1,15 @@
+#' =============================================================================
+#' Name   : Capital IQ R script example
+#' Author : Joe W. Byers
+#' Date: 4/19/21
+#' Modifed :
+#' Version: 1.0001
+#' Mail   : <<<ecjbosu@aol.com>>>
+#' From: https://www.support.marketplace.spglobal.com/en/api/reference/r.zip
+#' =============================================================================
+#'
+
+
 library(jsonlite)
 library(httr)
 library(xmlparsedata)
