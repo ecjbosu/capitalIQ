@@ -4,6 +4,7 @@
 Created on Mon Apr 19 12:22:56 2021
 
 @author: byersjw
+@author: https://github.com/faaez/capiq-python
 """#
 #
 #
